@@ -48,7 +48,7 @@ const hndlct=(e)=>  setCity(e.target.value)
     
          <div className="p-2 mb-4 bg-light rounded-3 shadow">
       <div className="container-fluid py-2">
-        <h1 className="display-5 fw-bold">Welcome to About Page!</h1>
+        <h1 className="display-5 fw-bold">Welcome to Covid dashboard!</h1>
         
        
       </div>
